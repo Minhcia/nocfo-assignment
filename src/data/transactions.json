@@ -1,0 +1,86 @@
+[
+    {
+        "id": 2001,
+        "date": "2024-06-16",
+        "amount": 175.00,
+        "contact": "Jane Smith",
+        "reference": "12345672"
+    },
+    {
+        "id": 2002,
+        "date": "2024-06-17",
+        "amount": 200.00,
+        "contact": "John Doe",
+        "reference": "9876 543 2103"
+    },
+    {
+        "id": 2003,
+        "date": "2024-06-20",
+        "amount": 200.00,
+        "contact": "Jane Doe",
+        "reference": "0000 0000 5550 0011 14"
+    },
+    {
+        "id": 2004,
+        "date": "2024-07-15",
+        "amount": -50.00,
+        "contact": null,
+        "reference": null
+    },
+    {
+        "id": 2005,
+        "date": "2024-07-20",
+        "amount": -35.00,
+        "contact": "Matti Meikäläinen",
+        "reference": null
+    },
+    {
+        "id": 2006,
+        "date": "2024-07-20",
+        "amount": -35.00,
+        "contact": "Matti Meittiläinen",
+        "reference": null
+    },
+    {
+        "id": 2007,
+        "date": "2024-07-25",
+        "amount": -1000.00,
+        "contact": "Best Supplies EMEA",
+        "reference": null
+    },
+    {
+        "id": 2008,
+        "date": "2024-08-02",
+        "amount": -324.10,
+        "contact": null,
+        "reference": null
+    },
+    {
+        "id": 2009,
+        "date": "2024-08-10",
+        "amount": -88.88,
+        "contact": "Random Vendor Oy",
+        "reference": "RF661234000001"
+    },
+    {
+        "id": 2010,
+        "date": "2024-08-12",
+        "amount": -500.50,
+        "contact": "Meta 76546745674567",
+        "reference": null
+    },
+    {
+        "id": 2011,
+        "date": "2024-08-15",
+        "amount": 250.00,
+        "contact": "Unknown Customer",
+        "reference": "RF9027182818284"
+    },
+    {
+        "id": 2012,
+        "date": "2024-08-18",
+        "amount": -120.00,
+        "contact": "Office Mart",
+        "reference": null
+    }
+]

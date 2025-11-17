@@ -1,0 +1,112 @@
+[
+    {
+        "type": "invoice",
+        "id": 3001,
+       "data": {
+            "invoice_number": "INV-1001",
+            "invoicing_date": "2024-06-15",
+            "due_date": "2024-07-15",
+            "issuer": "John Doe Consulting",
+            "recipient": "Jane Smith",
+            "total_amount": 175.00,
+            "reference": "12345672"
+        }
+    },
+    {
+        "type": "invoice",
+        "id": 3002,
+       "data": {
+            "invoice_number": "INV-1002",
+            "invoicing_date": "2024-06-14",
+            "due_date": "2024-07-14",
+            "issuer": "Doe Media Oy",
+            "recipient": "John Doe",
+            "total_amount": 200.00,
+            "reference": "98765432103"
+        }
+    },
+    {
+        "type": "invoice",
+        "id": 3003,
+       "data": {
+            "invoice_number": "PINV-3001",
+            "invoicing_date": "2024-06-18",
+            "due_date": "2024-07-18",
+            "supplier": "Jane Doe Design",
+            "total_amount": 200.00,
+            "reference": "5550001114"
+        }
+    },
+    {
+        "type": "invoice",
+        "id": 3004,
+       "data": {
+            "invoice_number": "PINV-3002",
+            "invoicing_date": "2024-06-30",
+            "due_date": "2024-07-15",
+            "supplier": "City Utilities",
+            "total_amount": 50.00,
+            "reference": null
+        }
+    },
+    {
+        "type": "invoice",
+        "id": 3005,
+       "data": {
+            "invoice_number": "PINV-4001",
+            "invoicing_date": "2024-07-18",
+            "due_date": "2024-07-21",
+            "supplier": "Matti Meikäläinen Tmi",
+            "total_amount": 35.00,
+            "reference": null
+        }
+    },
+    {
+        "type": "invoice",
+        "id": 3006,
+       "data": {
+            "invoice_number": "PINV-5001",
+            "invoicing_date": "2024-07-05",
+            "due_date": "2024-07-25",
+            "supplier": "Best Supplies EMEA",
+            "total_amount": 1000.00,
+            "reference": null
+        }
+    },
+    {
+        "type": "invoice",
+        "id": 3007,
+       "data": {
+            "invoice_number": "PINV-5100",
+            "invoicing_date": "2024-08-02",
+            "due_date": "2024-08-16",
+            "supplier": "Pinewood Ltd",
+            "total_amount": 324.10,
+            "reference": null
+        }
+    },
+    {
+        "type": "receipt",
+        "id": 3008,
+       "data": {
+            "receipt_number": "REC-3001",
+            "receiving_date": "2024-06-12",
+            "supplier": "Global Traders",
+            "total_amount": 310.00,
+            "reference": "RF135550001114"
+        }
+    },
+    {
+        "type": "invoice",
+        "id": 3009,
+       "data": {
+            "invoice_number": "INV-9999",
+            "invoicing_date": "2024-08-01",
+            "due_date": "2024-08-31",
+            "issuer": "Northwind Imports",
+            "recipient": "ACME Oy",
+            "total_amount": 640.00,
+            "reference": "RF2431415926535"
+        }
+    }
+]
